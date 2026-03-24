@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Bhushan Khune 👋
+
+🎓 B.Tech CSE (Cybersecurity & Digital Forensics)  
+🏫 VIT Bhopal University  
+📅 1st Year  
+
+💡 I am interested in cybersecurity, ethical hacking, and digital forensics.
+
+🚀 I aim to develop strong technical skills and contribute to solving real-world security challenges.
 
 <!--
 **bhushankkhune07/bhushankkhune07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
